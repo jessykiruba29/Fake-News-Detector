@@ -1,0 +1,5 @@
+fastapi[all]
+uvicorn
+numpy
+scikit-learn
+python-dotenv
